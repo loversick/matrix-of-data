@@ -1,0 +1,22 @@
+# Project 1 – Part 2: Data Exploration and Cleaning  
+**Name:** Alexandra Lawler 
+**Date:** October 10, 2025  
+**Exercise:** Majors Survey Fall 2024 Data Exploration and Cleaning  
+
+### Purpose  
+The purpose of this notebook is to explore, clean, and prepare the "MajorsFall24" dataset f
+or analysis.  
+This includes inspecting its structure, identifying data integrity issues such as missing 
+values 
+or redundant features, and performing cleaning operations to make the dataset consistent, 
+readable, and analysis-ready.  
+By completing this process, I ensure that any insights drawn later are based on accurate 
+and reliable data.
+
+### Notebook Outline
+1. Load and preview the data  
+2. Explore with `pandas` built-in functions 
+(`describe`, `columns`, `shape`, `dtypes`, `head`, `tail`, `sample`, `info`)  
+3. Identify and evaluate data integrity issues  
+4. Clean the data (rename columns, condense categories, remove irrelevant fields)  
+5. Save the cleaned dataset  
