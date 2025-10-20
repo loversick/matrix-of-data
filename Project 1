@@ -20,3 +20,18 @@ and reliable data.
 3. Identify and evaluate data integrity issues  
 4. Clean the data (rename columns, condense categories, remove irrelevant fields)  
 5. Save the cleaned dataset  
+
+## Project 1 - Part 3: Data Analysis  
+**Name:** Alexandra Lawler  
+**Date:** October 19, 2025  
+**Course:** Data Science Programming  
+
+### Purpose  
+This notebook analyzes the cleaned "MajorsFall24" dataset to uncover trends related to demographics, influences, and outreach for computing programs at County College of Morris (CCM).  
+The findings will help guide the CCM IT Department's recruiting and communication strategies.
+
+### Research Questions  
+1. What is the demographic makeup of computing majors at CCM?  
+2. What is the age distribution among computing majors?  
+3. Which computing degree programs have the highest enrollment at CCM?  
+4. How do demographic factors (gender and age) vary across the top computing degree programs?
