@@ -11,3 +11,13 @@
 
 ## Part 4. 
 ### Improve Your Plots - You will provide and receive feedback to/from your classmates via a Discussion Forum.
+
+## Project 1 – Part 2 & 3: Cleaning + Analysis  
+**Part 2** involved loading the raw student-survey dataset, renaming columns, consolidating categories, and saving a cleaned CSV.  
+**Part 3** explores demographic and enrollment trends among computing majors at CCM, using the cleaned dataset.
+
+### Files Included 
+- 'MajorsFall24.csv' - original dataset file
+- 'majors_survey_cleaned.csv' — cleaned dataset  
+- 'Project1Part2.ipynb' — notebook showing cleaning steps  
+- 'Project1Part3.ipynb' — notebook showing analysis, plots, and interpretations  
