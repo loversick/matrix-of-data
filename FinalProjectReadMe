@@ -1,0 +1,32 @@
+# Spotify Listening Habits Analysis
+
+## Project Overview
+This project analyzes personal Spotify playlist data to explore listening habits, 
+artist preferences, and song popularity. The goal is to gain insight into how playlists 
+are structured and how music choices vary across playlists.
+
+## Tools Used
+- Python
+- Jupyter Notebook
+- Spotify Web API
+- pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Questions Explored
+- How many songs are in each playlist?
+- Which artists appear most frequently across playlists?
+- What does the distribution of song popularity look like?
+- How do playlists differ in size and composition?
+
+## Files in This Repository
+- `Untitled1.ipynb` – Jupyter Notebook containing data collection, cleaning, analysis, and visualizations
+- `cleaned_tracks_df.csv` – Cleaned dataset extracted from the Spotify Web API
+- `Project_Summary.pdf` – One-page written summary of the project
+- `Final_Presentation.pptx` – Final presentation slides
+- `README.md` – Project overview and file descriptions
+
+## Dataset Source
+Spotify Web API  
+https://developer.spotify.com/documentation/web-api
